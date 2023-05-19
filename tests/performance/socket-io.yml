@@ -1,5 +1,5 @@
 config:
-  target: "http://lab.artillery.io"
+  target: "http://qt-app-alb-dev-1650939264.us-east-2.elb.amazonaws.com"
   # As an example, we'll only run a single virtual user in this
   # test script. For real-world load testing, you'll want to
   # adjust your load phases according to your needs.
